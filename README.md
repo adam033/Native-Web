@@ -15,7 +15,7 @@ yang kedua yaitu kita membuat **tabel** sesuai dengan modul dan menginputkan beb
 
 ## Membuat Dashboard Website
 yang ketiga yaitu kita membuat dashboard pada website **Perpustakaan ini dengan terdiri dari header , footer dan index**.
-![Alt Text](https://github.com/adam033/Native-Web/blob/master/Screenshot%20(77).png)
+![Alt Text](https://github.com/adam033/Native-Web/blob/master/Screenshot%20(78).png)
 
 
 
