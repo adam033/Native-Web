@@ -21,6 +21,8 @@ yang ketiga yaitu kita membuat dashboard pada website **Perpustakaan ini dengan 
 yang keempat yaitu kita membuat daftar **transaksi peminjaman** yang mana datanya kita ambil dan sambungkan dengan data pada database di **phpmyadmin** yang telah kita buat pada langkah awal tadi . tentunya tetap menggunakan relasi dan agregat **JOIN**.
 ![Alt Text](https://github.com/adam033/Native-Web/blob/master/Screenshot%20(81).png)
 
+## Terima Kasih dan Semoga Bermanfaat
+
 
 
 
