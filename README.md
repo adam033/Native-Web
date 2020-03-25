@@ -7,3 +7,4 @@ Cara menyambungkanya yaitu dengan syntax **$sql**
 
 ## Membuat Database perpustakaan
 yang pertama yaitu kita membuat database perpustakaan dengan nama **db_perpustakaan**
+! [Alt Text]()
